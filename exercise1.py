@@ -3,3 +3,7 @@ def print_message():
 
 def print_art():
     print ":) :)"
+
+def hi_fellow(msg):
+    if msg == 'I am an Insight Fellow!":
+        print "That's awesome! How is that random forest model going?"
